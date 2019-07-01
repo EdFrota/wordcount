@@ -1,4 +1,4 @@
-# Holidu Remote Word Count Service
+# Word Count Service
 
 ## Task description
 
